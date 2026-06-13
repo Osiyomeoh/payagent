@@ -135,7 +135,9 @@ cp .env.example .env.local   # fill in keys (see below)
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+**Live demo:** [https://payagent-seven.vercel.app](https://payagent-seven.vercel.app)
+
+Or run locally: open [http://localhost:3000](http://localhost:3000).
 
 Connect your MetaMask wallet (Base Sepolia), then type any payment instruction.
 

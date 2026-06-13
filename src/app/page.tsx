@@ -109,7 +109,7 @@ export default function Landing() {
       </section>
 
       <footer className="land-footer">
-        Base Sepolia · Venice AI · MetaMask · 1Shot · x402
+        <a href="https://payagent-seven.vercel.app" target="_blank" rel="noopener noreferrer">payagent-seven.vercel.app</a> · Base Sepolia · Venice AI · MetaMask · 1Shot · x402
       </footer>
     </div>
   )
