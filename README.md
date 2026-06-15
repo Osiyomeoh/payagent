@@ -295,14 +295,6 @@ During the hackathon we identified the following areas for improvement in the Me
 
 ---
 
-## Social Media
 
-Follow the build journey and tag [@MetaMaskDev](https://x.com/MetaMaskDev):
 
-- Tweet about PayAgent: share your experience using the app with `#PayAgent #MetaMask #ETHGlobal`
-- Show your tx hash on BaseScan after sending a payment
-- Tag [@MetaMaskDev](https://x.com/MetaMaskDev) showcasing how MetaMask Advanced Permissions streamlined the UX
-
----
-
-Built for ETHGlobal 2026 · Base Sepolia · Venice AI · MetaMask · 1Shot · x402
+Built with · Base Sepolia · Venice AI · MetaMask · 1Shot · x402
